@@ -1,6 +1,16 @@
-### Hi there 👋
+# Thabatta 1°A
+## Meu nome é Thabatta Boemer Canedo,tenho 15 anos de idade.
 
-<!--
+## Gosto de cozinhar,e me considero boa nisso.
+
+## Gosto muito de animais,principalmente passaros.
+
+
+
+
+
+
+
 **Thatta09/Thatta09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
